@@ -1,0 +1,12 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+#page-container {
+    min-height: 80vh;
+    display:grid;
+    justify-items: center;
+    align-items: center;
+    grid-template-rows: 1fr 1fr 1fr;
+}
